@@ -1,0 +1,45 @@
+body{
+    background-color: black
+}
+
+#section-de-fora{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: rgb(35, 62, 67);
+    border-radius: 2%;
+}
+
+#section-dentro{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h1{
+    text-align: center;
+}
+
+#imagem-perfil {
+    border-radius: 2%;
+    width: 20%;
+    margin-left: 5%;
+}
+
+#texto-apresentacao{
+    width: 50%;
+    text-align: justify;
+    position: absolute;
+    top: 10%;
+    left: 35%;
+}
+
+#hardskills{
+    position: absolute;
+    top: 40.2%;
+    left: 30%;
+}
+
+#softskills{
+    margin-left: 5%;
+}
